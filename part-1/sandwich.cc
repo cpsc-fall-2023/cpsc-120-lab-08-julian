@@ -1,7 +1,7 @@
 // Julian Kasden
 // juliankasden@csu.fullerton.edu
 // @Julianth3Julian
-// Partners: @none
+// Partners: @Therunlal99
 
 #include <iostream>
 #include <string>
