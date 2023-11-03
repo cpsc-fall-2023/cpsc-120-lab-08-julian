@@ -10,7 +10,7 @@
 int main(int argc, char* argv[]) {
   std::vector<std::string> arguments{argv, argv + argc};
 
-  // XTODO: Validate that there is at least one command line argument.
+  // XTOD: Validate that there is at least one command line argument.
   // If not, print an error message and return a non-zero value.
   if (arguments.size() <= 1) {
     std::cout << "error: you must supply at least one number";
